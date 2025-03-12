@@ -8,6 +8,9 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:mariyamamoto@g.ucla.edu"
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/marihyamamoto/
     - icon: github
       text: Github
       href: https://github.com/marihmoto
