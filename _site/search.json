@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Mari Yamamoto",
     "section": "",
-    "text": "About this site"
+    "text": "Mari is a senior at UCLA majoring in Statistics and Data Science, set to graduate in June 2025. After graduation, she will be moving to Chicago to pursue a full time role as a data scientist. When not working with data, Mari spends her time baking (she has recently started a little bakery out of her college apartment) and creating shortform video content."
   },
   {
     "objectID": "about.html#education",
@@ -33,5 +33,19 @@
     "title": "projects",
     "section": "",
     "text": "Trending YouTube Videos: A Text Mining Analysis\nThis was my final project for my Stats 133 class this quarter, a text mining class. This analysis looks at data from up to 200 top trending YouTube videos in the US, analyzing video statistics and the top trending comments. We perform sentiment analysis on the comment text as well as topic modeling for the trending content.\nView the full presentation here.\n\n\nAnalysis of Academic Performance in Statistics & Data Science Majors at UCLA\nThis was my final project for Stats 140XP, where we analyzed data on undergraduate students at UCLA and their academic performance measured by GPA. We focused only on Statistics and Data Science undergraduate students. We first looked at whether there were differences between transfer students and four-year students in terms of performance. The second part of our project looked at Statistics and Mathematics course combinations to see what combinations resulted in lower GPAs.\nView the full presentation here."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mari Yamamoto",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics & Data Science | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mari Yamamoto",
+    "section": "Experience",
+    "text": "Experience\nAon | Health & Benefits Data Analytics Intern | June 2024 - Present\nUCLA Sustainable LA Grand Challenge | Data Management Assistant | Jan. 2023 - Present\nBruins-In-Genomics Summer Research Program | Summer Research Intern | June 2023 - Aug. 2023\nThe Daily Bruin, The Stack | Data Journalism Intern | Oct. 2022 - Jan. 2023"
   }
 ]
