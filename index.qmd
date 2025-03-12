@@ -5,5 +5,5 @@ title: "Mari Yamamoto"
 About this site
 
 ```{r}
-1 + 1
+print(3)
 ```

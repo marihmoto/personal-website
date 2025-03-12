@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Mari Yamamoto",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\nprint(3)\n\n[1] 3"
   }
 ]
