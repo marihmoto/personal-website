@@ -4,6 +4,3 @@ title: "Mari Yamamoto"
 
 About this site
 
-```{r}
-print(3)
-```

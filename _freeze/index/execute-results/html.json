@@ -1,0 +1,15 @@
+{
+  "hash": "6556399ed837d3ac57bd70f7a1e5279f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mari Yamamoto\"\n---\n\n\n\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(3)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

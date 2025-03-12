@@ -1,0 +1,15 @@
+---
+title: "projects"
+---
+
+### Trending YouTube Videos: A Text Mining Analysis
+
+This was my final project for my Stats 133 class this quarter, a text mining class. This analysis looks at data from up to 200 top trending YouTube videos in the US, analyzing video statistics and the top trending comments. We perform sentiment analysis on the comment text as well as topic modeling for the trending content.
+
+View the full presentation [here](/projects/youtubesentiments.pdf).
+
+### Analysis of Academic Performance in Statistics & Data Science Majors at UCLA
+
+This was my final project for Stats 140XP, where we analyzed data on undergraduate students at UCLA and their academic performance measured by GPA. We focused only on Statistics and Data Science undergraduate students. We first looked at whether there were differences between transfer students and four-year students in terms of performance. The second part of our project looked at Statistics and Mathematics course combinations to see what combinations resulted in lower GPAs.
+
+View the full presentation [here](/projects/statsclassanalysis.pdf).
